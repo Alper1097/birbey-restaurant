@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+background:#071E19;
+color:white;
+font-family:Arial,Helvetica,sans-serif;
+}
+
+.container{
+max-width:1280px;
+margin:auto;
+padding-inline:24px;
+}
